@@ -1,0 +1,128 @@
+body{ 
+    margin: auto;
+    background-color: rgba(237, 217, 212, 0.947);
+    
+}
+.header{
+    background-color:rgba(244, 225, 218, 0.877);
+    text-align: absolute;
+    padding: 20px;
+    border-radius: 15px;
+    font-family:  serif;
+    font-size: x-large;
+    color: rgb(97, 75, 62);
+}
+
+.contenido{
+    width: 90%;
+    margin: auto;
+    border: 2px white;
+    border-radius: 10px;
+
+    padding: 10px;
+    margin-top: 5px;
+}
+#sub{
+    color: rgb(177, 48, 48);
+}
+
+.imagen{  
+    width: 85%;
+    margin: auto;
+    border: 2px white;
+    border-radius: 10px;
+    font-size: 20pt;
+    padding: 10px;
+    margin-top: 5px;
+}
+
+.imagen2{
+    
+
+    float: right;
+   
+
+}
+.p{
+    
+    font-size: 16pt;
+    color: rgba(92, 64, 49, 0.906);
+    font-family:  serif;
+
+}
+.descripcion{
+
+    font-size: 16pt;
+    color: rgba(92, 64, 49, 0.906);
+    font-family:  serif;
+    }
+
+.posicion{
+    float: right;
+    width: auto;
+    margin: auto;
+    border: 2px rgb(0, 0, 0);
+    border-radius: 10px; 
+    background-color:rgba(244, 225, 218, 0.877);
+    text-align: absolute;
+    padding: 20px;
+    border-radius: 15px;
+    font-family:  serif;
+    font-size: 105%;
+    color: rgba(92, 64, 49, 0.906);
+  
+}
+
+.posicion2{
+ 
+    font-family:  serif;
+    font-size: 105%;
+    color: rgba(92, 64, 49, 0.906);
+    vertical-align: top;
+    display: inline-block;
+}
+.email{
+    border: 2px;
+    display: flex;
+    float: right;
+    background-color:rgba(209, 165, 149, 0.877);
+    text-align: absolute;
+    padding: 20px;
+    border-radius: 15px;
+    font-family:  serif;
+    font-size: x-large;
+}
+.footer{
+    color: rgba(96, 71, 58, 0.906);
+     /* Like the header, the footer will have a static height - it shouldn't grow or shrink.  */
+   /* 0 flex-grow, 0 flex-shrink, auto flex-basis */
+   flex: 0 0 auto;
+   background-color: rgb(251, 247, 246);
+   font-size: x-large;
+   text-align: center;
+   padding: 20px;
+   border-width: 130px;
+   width: auto;
+   
+}
+.h2{
+    text-align: center;
+    color: rgba(96, 71, 58, 0.906);
+}
+.Titulo_Mov{
+    
+    text-align: center;
+    color: rgba(96, 71, 58, 0.906);
+
+}
+
+
+    
+
+
+
+
+
+
+
+
