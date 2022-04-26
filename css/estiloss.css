@@ -1,0 +1,327 @@
+ body{ 
+    /* margin: auto; */
+    background-color: rgb(235, 206, 198);
+    
+} 
+
+.Formato_Pag
+{
+    width: 80%;
+    max-width: 1000px;
+    margin: 0 auto;
+    /* background-color: rgba(237, 217, 212, 0.947); */
+}
+
+h1 {
+    /* width: 50%; margin:0; */
+    box-sizing: border-box;
+    float: left;
+}
+
+.titulo
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 100%;
+    height: auto;
+    text-align:left;
+    justify-content:center;
+    vertical-align:top;
+    color:rgb(255, 255, 255);
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
+    padding: 1%;
+
+}
+
+.titulo2
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 100%;
+    height: auto;
+    text-align:left;
+    justify-content:center;
+    vertical-align:top;
+    color: dimgray;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 1%;
+    display: inline-block;
+}
+
+.Img1
+{
+    width: 100%;
+    padding: 1%;
+    /* border-radius: 5px; */
+    /* background: rgb(255, 255, 255); */
+    /* background-color: rgba(0, 0, 0, .1); */
+    box-sizing: border-box;
+    float: left;  
+}
+
+.Img1 img
+{
+    filter: drop-shadow(0 10px 10px rgba(0, 0, 0, 0.7));
+    width: 100%;
+    height: auto;
+}
+
+.contenido
+{
+    box-sizing: border-box;
+    float: left; 
+    width: 100%;
+    padding: 1%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: justify;
+    font-style: normal;
+    color: dimgray;
+    font-size: 18px;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.form_img
+{
+    width: 100%;
+    box-sizing: border-box;
+    float: left; 
+}
+
+.formulario
+{
+    width: 50%;
+    padding: 1%;
+    box-sizing: border-box;
+    float: left;  
+}
+
+form {
+    background-color: rgb(209 165 149 / 88%);
+    /* border-radius: 28px; */
+    padding: 3%;
+    /* font-weight: bold; */
+    margin: 0 auto;
+    width: 100%;
+    font-size: 14px;
+    float:inherit;
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+input[type=text] 
+{
+    width: 80%;
+    /* padding: 2%; */
+    /* margin: 8px 0; */
+    box-sizing: border-box;
+  }
+
+input[type=email] 
+{
+    width: 50%;
+    /* padding: 2%; */
+    /* margin: 8px 0; */
+    box-sizing: border-box;
+  }
+  input[type=submit] 
+  {
+    width: 20%;
+   justify-content: center;
+    /* padding: 2%; */
+    /* margin: 8px 0; */
+    box-sizing: border-box;
+    float: right;
+  }
+
+  .Img2
+{
+    width: 50%;
+    padding: 1%;
+    /* border-radius: 5px; */
+    /* background: rgb(255, 255, 255); */
+    /* background-color: rgba(0, 0, 0, .1); */
+    box-sizing: border-box;
+    float: left;  
+}
+
+.Img2 img
+{
+    /* filter: drop-shadow(0 10px 10px rgba(0, 0, 0, 0.7)); */
+    width: 100%;
+    height: auto;
+}
+
+.pie
+{
+    padding: 5%;
+    font-weight: bold;
+    margin: 0 auto;
+    width: auto;
+    font-size: 20px;
+    float:none;
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: dimgray;
+    display: table;
+}
+
+/* footer{
+    width: 100%;
+    align-content: center;
+} */
+
+/* 
+.header{
+    background-color:rgba(244, 225, 218, 0.877);
+    text-align: absolute;
+    padding: 20px;
+    border-radius: 15px;
+    font-family:  serif;
+    font-size: x-large;
+    color: rgb(133, 105, 88);
+} */
+
+/* .contenido{
+    width: 90%;
+    margin: auto;
+    border: 2px white;
+    border-radius: 10px;
+    font-size: 20pt;
+    padding: 10px;
+    margin-top: 5px;
+} */
+/* #sub{
+    color: rgb(177, 48, 48);
+} */
+
+/* .imagen{  
+    width: 94%;
+    margin: auto;
+    border: 2px white;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 5px;
+    border-radius: 5px;
+    width: -webkit-fill-available;
+} */
+
+/* .imagen img
+´{
+    border-radius: 5px;
+    width: -webkit-fill-available;
+} */
+
+/* .imagen2{
+    
+
+    float: right;
+   
+
+} */
+/* .p{
+    
+    font-size: 16pt;
+    color: rgba(92, 64, 49, 0.906);
+    font-family:  serif;
+
+} */
+/* .descripcion{
+
+    font-size: 16pt;
+    color: rgba(92, 64, 49, 0.906);
+    font-family:  serif;
+    } */
+
+/* .posicion{
+    float: right;
+    width: auto;
+    margin: auto;
+    border: 2px rgb(0, 0, 0);
+    border-radius: 10px; 
+    background-color:rgba(244, 225, 218, 0.877);
+    text-align: absolute;
+    padding: 20px;
+    border-radius: 15px;
+    font-family:  serif;
+    font-size: 105%;
+    color: rgba(92, 64, 49, 0.906);
+}    
+   */
+/* .imgs_ind
+    {
+        width: auto;
+        background: rgb(0, 0, 0);
+        font-size: x-large;
+        box-sizing: border-box;
+        float: left;
+              background-color:rgba(209, 165, 149, 0.877);
+        padding: 20px;
+        border-radius: 15px;
+        font-family:  serif;
+    } */
+    /* .foto2posicion */
+
+    /* {
+
+     width: 30%;
+    background: rgb(255, 253, 253);
+    padding: 2%;
+    box-sizing: border-box;
+    float: left;
+        
+    }   */
+
+
+    
+
+/* .email{
+    border: 2px;
+    display: flex;
+    float: right;
+    background-color:rgba(209, 165, 149, 0.877);
+    text-align: absolute;
+    padding: 20px;
+    border-radius: 15px;
+    font-family:  serif;
+    font-size: x-large;
+} */
+/* .footer{
+    color: rgba(96, 71, 58, 0.906); */
+     /* Like the header, the footer will have a static height - it shouldn't grow or shrink.  */
+   /* 0 flex-grow, 0 flex-shrink, auto flex-basis */
+   /* flex: 0 0 auto;
+   background-color: rgb(251, 247, 246);
+   font-size: x-large;
+   text-align: center;
+   padding: 20px;
+   border-width: 130px;
+   width: auto; */
+   
+/* }
+.h2{
+    text-align: center;
+    color: rgba(223, 195, 174, 0.906);
+
+}
+.Titulo_Mov 
+{
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    color: rgba(158, 134, 114, 0.757);
+} */
+
+
+
+    
+
+
+
+
+
+
+
+
